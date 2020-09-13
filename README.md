@@ -4,21 +4,21 @@
 시작 시 화면
 -
 - 로딩이 끝나면 시작할 스테이지를 입력할 수 있다.  
-<img src="https://github.com/alsrhkd77/imgs/blob/master/Python_AngryTurtle/1.png">  
+<img src="/screenshot/1.png">  
 <br/>
 
 발사할 수 있는 거북이는 5개
 -
 - 발사할 수 있는 거북이는 5마리
 - 5번 안에 적을 모두 처치하면 다음 스테이지로 넘어간다.  
-<img src="https://github.com/alsrhkd77/imgs/blob/master/Python_AngryTurtle/2.png">  
+<img src="/screenshot/2.png">  
 <br/>
 
 거북이를 발사한다
 -
 - 장전된 거북이를 드래그 후 버튼을 떼면 거북이가 날아간다.
 - 거북이는 포물선을 그리며 날아간다.  
-<img src="https://github.com/alsrhkd77/imgs/blob/master/Python_AngryTurtle/3.png">  
+<img src="/screenshot/3.png">  
 <br/>
 
 이미지 출처
