@@ -26,6 +26,3 @@
 - 병아리 - https://m.blog.naver.com/lovedesign01/150168487961
 - 토끼 - http://m.inven.co.kr/board/powerbbs.php?come_idx=4538&l=3232417&iskin=overwatch
 - 박스 - https://social.lge.co.kr/product/795_/
-
->2018.10.23  
->동의대학교 컴퓨터 소프트웨어 공학과 20153308 송민광
